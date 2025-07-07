@@ -23,7 +23,7 @@ Atualmente, estou focado em evoluir nas áreas de **testes manuais**, **automati
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
-##🛠️ O que pratico e estudo
+## 🛠️ O que pratico e estudo
 
 - Testes Funcionais  
 - Testes de API  
