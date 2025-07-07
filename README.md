@@ -23,17 +23,16 @@ Atualmente, estou focado em evoluir nas áreas de **testes manuais**, **automati
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
-
 ## 🧪 Áreas que estudo e pratico
 
-- Testes Funcionais
-- Testes de API
-- Testes Manuais
-- Testes Automatizados com Selenium
-- Teste de Regressão
-- Teste de Integração
-- Testes de Interface
-- Técnicas de Partição de Equivalência e Valor Limite
+- Testes Funcionais  
+- Testes de API  
+- Testes Manuais  
+- Testes Automatizados com Selenium  
+- Teste de Regressão  
+- Teste de Integração  
+- Testes de Interface  
+- Também estudo segurança de aplicações, automação de testes e tenho bastante interesse na cultura DevOps.
 
 ---
 
