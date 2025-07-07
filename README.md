@@ -41,4 +41,8 @@ Atualmente, estou focado em evoluir nas áreas de **testes manuais**, **automati
 
 Estou sempre buscando novos aprendizados, com foco em entregar software com qualidade, eficiência e segurança. Se quiser trocar ideias ou colaborar, me chama! 😄
 
-📫 Me encontra também no Instagram: [@lucasz_gomes](https://instagram.com/lucasz_gomes)
+📫 Me encontra também nas redes:
+
+- Instagram: [@lucasz_gomes](https://instagram.com/lucasz_gomes)
+- LinkedIn: [Lucas Costa](https://www.linkedin.com/in/lucas-costa-584355339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- E-mail: lucascontato.tech@gmail.com
