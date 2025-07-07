@@ -1,46 +1,44 @@
 # 👋 Oi, eu sou o Lucas!
 
-Seja bem-vindo ao meu espaço no GitHub. 😄
+Seja bem-vindo ao meu espaço no GitHub. 😄  
+Sou uma pessoa curiosa e apaixonada por tecnologia, com interesse especial por testes de software e garantia da qualidade (QA). Desde que comecei a estudar tecnologia, percebi que tenho afinidade com a identificação de falhas e com o funcionamento dos sistemas de forma detalhada.
 
-Sou uma pessoa curiosa, com interesse especial por testes de software e garantia da qualidade (QA). Desde que comecei a estudar tecnologia, descobri que tenho afinidade com a parte de identificar falhas, entender como os sistemas se comportam e contribuir para que os usuários tenham uma boa experiência.
-
-## 🚀 Como entrei nessa área
-
-Meu interesse por QA surgiu quando comecei a explorar como os sites funcionam por trás das telas. Ver um sistema quebrando me instigava a entender o porquê, e isso me levou ao mundo dos testes. Desde então, venho estudando e praticando para me tornar cada vez melhor nesse campo.
-
-## 🧪 O que eu venho aprendendo
-
-Atualmente, estou me aprofundando em:
-
-- Escrita de **casos de teste**, **planos de teste** e **relatórios de bugs**
-- Automação de testes com **Selenium e Python**
-- Testes de API usando **Postman**
-- Princípios de testes funcionais, usabilidade e segurança básica
-
-Além disso, estou começando a conhecer ferramentas como:
-
-- **JMeter**, para testes de performance
-- **Playwright**, para testes automatizados de front-end
-- **Github Actions**, para integração contínua
-
-## 📁 Projetos que você pode ver por aqui
-
-- Scripts de automação com Selenium voltados para sites de prática
-- Casos de teste para o site [bookcart.azurewebsites.net](https://bookcart.azurewebsites.net)
-- Documentações que venho criando enquanto aprendo QA
-- Meus próprios testes e anotações sobre qualidade de software
-
-## 🎯 Objetivo
-
-Meu foco é continuar evoluindo na área de QA, seja atuando com testes manuais, seja automatizando processos que tornem o desenvolvimento mais ágil e seguro. Estou sempre buscando aprender algo novo e colocar em prática.
-
-## 📬 Vamos conversar?
-
-Se quiser trocar uma ideia, tirar dúvidas sobre QA ou compartilhar experiências, estou à disposição.  
-📧 **lucascontato.tech@gmail.com**
-Meu linkedin: Lucas gomes
+Atualmente, estou focado em evoluir nas áreas de **testes manuais**, **automatizados** e **análise de requisitos**, buscando sempre entender os sistemas como um todo para entregar valor com qualidade. Tenho me dedicado a estudar boas práticas, tipos de testes, ferramentas modernas e técnicas para garantir que o software funcione como deveria — antes de chegar ao usuário final.
 
 ---
 
-Obrigado por passar por aqui! Fique à vontade para explorar meus repositórios. 😊
+## ⚙️ Habilidades e Ferramentas
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![TestLink](https://img.shields.io/badge/TestLink-CCCCCC?style=for-the-badge)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-009688?style=for-the-badge)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+
+---
+
+## 🧪 Áreas que estudo e pratico
+
+- Testes Funcionais
+- Testes de API
+- Testes Manuais
+- Testes Automatizados com Selenium
+- Teste de Regressão
+- Teste de Integração
+- Testes de Interface
+- Técnicas de Partição de Equivalência e Valor Limite
+
+---
+
+## 🚀 Em constante evolução
+
+Estou sempre buscando novos aprendizados, com foco em entregar software com qualidade, eficiência e segurança. Se quiser trocar ideias ou colaborar, me chama! 😄
+
+📫 Me encontra também no Instagram: [@lucasz_gomes](https://instagram.com/lucasz_gomes)
