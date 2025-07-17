@@ -46,10 +46,10 @@ Sou um profissional apaixonado por **Qualidade de Software**, com foco em **test
 ![ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=OWASP&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
-## 🛠️ O que pratico e estudo
+## 🚀⚙️ O que pratico e estudo
 
-- Testes Funcionais  
-- Testes de API  
+- Testes Funcionais e não Funcionais 
+- Testes de API com Postman
 - Testes Manuais  
 - Testes Automatizados com Selenium  
 - Teste de Regressão  
