@@ -45,3 +45,21 @@ Sou um profissional apaixonado por **Qualidade de Software**, com foco em **test
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=OWASP&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+
+## 🛠️ O que pratico e estudo
+
+- Testes Funcionais  
+- Testes de API  
+- Testes Manuais  
+- Testes Automatizados com Selenium  
+- Teste de Regressão  
+- Teste de Integração  
+- Testes de Interface  
+- Também estudo segurança de aplicações, automação de testes e tenho bastante interesse na cultura DevOps.
+
+---
+
+## 🚀 Em constante evolução
+
+Estou sempre buscando novos aprendizados, com foco em entregar software com qualidade, eficiência e segurança. Se quiser trocar ideias ou colaborar, me chama! 😄
+
